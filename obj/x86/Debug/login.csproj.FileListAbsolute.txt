@@ -1,0 +1,36 @@
+E:\c#\login\login\bin\Debug\login.exe
+E:\c#\login\login\bin\Debug\login.pdb
+E:\c#\login\login\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\c#\login\login\obj\x86\Debug\login.Properties.Resources.resources
+E:\c#\login\login\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\c#\login\login\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\c#\login\login\obj\x86\Debug\login.exe
+E:\c#\login\login\obj\x86\Debug\login.pdb
+E:\c#\login\login\bin\Debug\hi-IN\login.resources.dll
+E:\c#\login\login\obj\x86\Debug\login.profile.resources
+E:\c#\login\login\obj\x86\Debug\hi-IN\login.resources.dll
+E:\c#\login\login\obj\x86\Debug\login.welcome.resources
+E:\c#\login\login\obj\x86\Debug\login.pubnot.resources
+E:\c#\login\login\obj\x86\Debug\login.login.resources
+E:\c#\login\login\obj\x86\Debug\login.login.hi-IN.resources
+E:\c#\login\login\obj\x86\Debug\login.BROWSER.resources
+E:\c#\login\login\obj\x86\Debug\login.PAINT.resources
+E:\c#\login\login\obj\x86\Debug\login.CALCULATOR.resources
+G:\c sharp\MTA\c#\login\login\obj\x86\Debug\login.exe
+G:\c sharp\MTA\c#\login\login\obj\x86\Debug\login.pdb
+G:\c sharp\MTA\c#\login\login\bin\Debug\login.exe
+G:\c sharp\MTA\c#\login\login\bin\Debug\login.pdb
+G:\c sharp\MTA\c#\login\login\bin\Debug\hi-IN\login.resources.dll
+G:\c sharp\MTA\c#\login\login\obj\x86\Debug\login.BROWSER.resources
+G:\c sharp\MTA\c#\login\login\obj\x86\Debug\login.CALCULATOR.resources
+G:\c sharp\MTA\c#\login\login\obj\x86\Debug\login.login.resources
+G:\c sharp\MTA\c#\login\login\obj\x86\Debug\login.PAINT.resources
+G:\c sharp\MTA\c#\login\login\obj\x86\Debug\login.PROFILE.resources
+G:\c sharp\MTA\c#\login\login\obj\x86\Debug\login.Properties.Resources.resources
+G:\c sharp\MTA\c#\login\login\obj\x86\Debug\login.PUBNOT.resources
+G:\c sharp\MTA\c#\login\login\obj\x86\Debug\login.WELCOME.resources
+G:\c sharp\MTA\c#\login\login\obj\x86\Debug\login.login.hi-IN.resources
+G:\c sharp\MTA\c#\login\login\obj\x86\Debug\login.csproj.GenerateResource.Cache
+G:\c sharp\MTA\c#\login\login\obj\x86\Debug\hi-IN\login.resources.dll
+E:\c sharp\MTA\c#\login\login\obj\x86\Debug\login.exe
+E:\c sharp\MTA\c#\login\login\obj\x86\Debug\login.pdb
